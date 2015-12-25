@@ -423,6 +423,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thecodelab.test.gdg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -434,6 +435,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thecodelab.test.gdg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -504,6 +506,7 @@
 				F3675C221C2CAB670013DA30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F3675C231C2CAB670013DA30 /* Build configuration list for PBXNativeTarget "gdgTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +515,7 @@
 				F3675C251C2CAB670013DA30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F3675C261C2CAB670013DA30 /* Build configuration list for PBXNativeTarget "gdgUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +524,7 @@
 				F3675C281C2CAB670013DA30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
